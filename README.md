@@ -14,7 +14,7 @@ We the team  Q-Cocks, trained an existing  QML model using trial and error metho
 
 ## Links
 
-View our website [Q-Cocks](https://sites.google.com/view/qcocks-0-5236/home?authuser=0).
+View our website [Q-Cocks](https://sites.google.com/view/qcocks).
 
 
 
